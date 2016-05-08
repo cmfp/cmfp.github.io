@@ -1,5 +1,5 @@
 # Summary
 
 * [Overview](/api/overview.md)
-* Authentication
+* [Authentication](/api/authentication.md)
 
